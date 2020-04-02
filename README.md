@@ -9,7 +9,7 @@ nltk==3.4
 scikit-learn==0.20.2
 ```
 
-###Run the code
+### Run the code
 
 ##### 0 Extract documents and segment text
 ```shell script
